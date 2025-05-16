@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           fitgirl-safer-content
-// @version        1.0.3
+// @version        1.0.4
 // @namespace      https://github.com/JenieX/user-js-next
 // @description    Remove games that are tagged as adult games.
 // @author         JenieX
