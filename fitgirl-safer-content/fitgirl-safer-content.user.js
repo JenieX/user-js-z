@@ -11,7 +11,7 @@
 // @compatible     chrome Violentmonkey
 // @supportURL     https://github.com/JenieX/user-js-next/issues
 // @homepageURL    https://github.com/JenieX/user-js-next/fitgirl-safer-content
-// @downloadURL    https://github.com/JenieX/user-js-next/!
+// @downloadURL    https://github.com/JenieX/user-js-next/raw/refs/heads/main/fitgirl-safer-content/fitgirl-safer-content.user.js
 // @icon           https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg
 // @license        MIT
 // ==/UserScript==
