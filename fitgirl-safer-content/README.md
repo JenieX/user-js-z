@@ -18,11 +18,11 @@ Once installed, the script will automatically apply the change.
 
 ## Limitations
 
-This script will blindly remove the target contents, therefor visiting a game page that is marked as adult will give you an empty page.
+This script will blindly remove the target contents, therefor visiting a game page that is marked as adult will give you no content.
 
 ## History
 
-To see the commit history for this script, click [here](https://github.com/JenieX/user-js/commits/main?path=src/user-js/ig-splash-screen).
+To see the commit history for this script, click [here](https://github.com/JenieX/user-js-next/commits/main/fitgirl-safer-content/fitgirl-safer-content.user.js).
 
 ## Contributing
 
